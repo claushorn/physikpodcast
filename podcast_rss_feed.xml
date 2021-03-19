@@ -11,9 +11,9 @@
     <itunes:email>datascience.ai.ch@gmail.com</itunes:email>
     <itunes:category text="Technology" />
     <image>
-      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
+      <url>https://claushorn.github.io/physikpodcast/img/icon.jpg</url>
       <title>Physik zum Spazieren gehen</title>
-      <link>https://github.com/claushorn/physikpodcast/</link>
+      <link>https://claushorn.github.io/physikpodcast/</link>
     </image>
     <itunes:owner>
       <itunes:name>Claus Horn</itunes:name>
@@ -22,12 +22,12 @@
     <itunes:keywords>physik,Spazieren</itunes:keywords>
     <copyright>Claus Horn 2021</copyright>
     <description>Ein audio-only podcast mit Themen der Physik</description>
-    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <googleplay:image href="https://claushorn.github.io/physikpodcast/img/icon.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <link>https://claushorn.github.io/physikpodcast/podcast_rss_feed.xml</link>
+    <itunes:image href="https://claushorn.github.io/physikpodcast/img/icon.jpg" />
     <item>
       <author>Claus Horn</author>
       <itunes:author>Claus Horn</itunes:author>
