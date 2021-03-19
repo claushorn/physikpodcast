@@ -33,7 +33,7 @@
       <itunes:author>Claus Horn</itunes:author>
       <title>Test 1</title>
       <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/claushorn/physikpodcast/audio/SW9_Anfangsbeispiel_A.mp3" type="audio/mpeg" length="1883040" />
+      <enclosure url="https://claushorn.github.io/physikpodcast/audio/SW9_Anfangsbeispiel_A.mp3" type="audio/mpeg" length="1883040" />
       <itunes:duration>2:36</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
