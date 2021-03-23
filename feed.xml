@@ -10,6 +10,8 @@
 
       Physik zum Spazieren gehen
     </description>
+    <category>Education</category>
+    <explicit>no</explicit>
     <language>ch-de</language>
     <copyright>Claus Horn 2021</copyright>
     <pubDate>Erstellungsdatum("Tue, 23 Mar 2021 1:01:01")</pubDate>
@@ -26,6 +28,7 @@
       <author>Claus Horn, claus.horn@zhaw.ch</author>
       <guid isPermaLink="false">pzs002</guid>
       <pubDate>Erstellungsdatum("Tue, 23 Mar 2021 1:02:01")</pubDate>
+      <explicit>no</explicit>
     </item>
 
 
