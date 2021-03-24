@@ -1,4 +1,4 @@
-# [Physik zum Spazieren gehen](https://claushorn.github.io/physikpodcast/feed.xml)
+# Physik zum Spazieren gehen
 
 Ein audio-only podcast zum Physikunterricht an der ZHAW in Wädenswil. 
 
