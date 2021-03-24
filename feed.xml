@@ -26,11 +26,14 @@
       <itunes:name>Claus Horn</itunes:name>
       <itunes:email>claus.horn@zhaw.ch</itunes:email>
     </itunes:owner>
+
+    <itunes:image href="https://claushorn.github.io/physikpodcast/img/pzs_icon.jpg" />
     <itunes:image>
       <url>https://claushorn.github.io/physikpodcast/img/pzs_icon.jpg</url>
       <title>Physik zum Spazieren gehen</title>
       <link>https://claushorn.github.io/physikpodcast/</link>
     </itunes:image>
+
     <itunes:explicit>false</itunes:explicit>
     <itunes:keywords>Physik</itunes:keywords>
 
