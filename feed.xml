@@ -3,6 +3,7 @@
 
   <channel>
     <title>Physik zum Spazieren gehen</title>
+    <itunes:subtitle>Lernen ohne Bildschirm</itunes:subtitle>
     <link>https://claushorn.github.io/physikpodcast/</link>
     <description>
       Ein audio-only podcast zum Physikunterricht an der ZHAW in Wädenswil.
@@ -11,6 +12,13 @@
 
       Spazieren gehen macht einen klaren Kopf, regt die Kreativität an und fördert das körperliche Wohlbefinden.
     </description>
+    <itunes:summary>
+      Ein audio-only podcast zum Physikunterricht an der ZHAW in Wädenswil.
+
+      Er ermöglicht das Lernen ohne vor dem Bildschirm sitzen zu müssen.
+
+      Spazieren gehen macht einen klaren Kopf, regt die Kreativität an und fördert das körperliche Wohlbefinden.
+    </itunes:summary>
     <language>de-ch</language>
     <copyright>Copyright Claus Horn 2021</copyright>
     <pubDate>Tue, 23 Mar 2021 0:01:00 CET</pubDate>
@@ -44,12 +52,16 @@
         Wie kommt die Feuchtigkeit in die Luft? Wie kann man sie messen und beeinflussen?
         Dies Fragen sind nicht nur wichtig für viele technische Anwendungen sondern auch zentral für das Verständnis vieler Vorgängen in der Meteorologie und in Lebewesen.
       </description>
+      <itunes:summary>
+        Wie kommt die Feuchtigkeit in die Luft? Wie kann man sie messen und beeinflussen?
+        Dies Fragen sind nicht nur wichtig für viele technische Anwendungen sondern auch zentral für das Verständnis vieler Vorgängen in der Meteorologie und in Lebewesen.
+      </itunes:summary>
       <enclosure
         url="https://claushorn.github.io/physikpodcast/audio/PzS_Luftfeuchtigkeit.mp3"
         length="9040792"
         type="audio/mpeg"/>
       <itunes:duration>6:17</itunes:duration>
-      <link>https://claushorn.github.io/physikpodcast/audio/PzS_Luftfeuchtigkeit.mp3</link>
+      <link>https://claushorn.github.io/physikpodcast/</link>
       <author>Claus Horn, claus.horn@zhaw.ch</author>
       <guid isPermaLink="false">pzs002</guid>
       <pubDate>Tue, 23 Mar 2021 2:00:00 CET</pubDate>
