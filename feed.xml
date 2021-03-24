@@ -17,7 +17,8 @@
 
     <author>Claus Horn, claus.horn@zhaw.ch</author>
     <itunes:author>Claus Horn, claus.horn@zhaw.ch</itunes:author>
-    <itunes:category text="Education &amp; Courses" />
+    <itunes:category text="Education" />
+    <itunes:category text="Courses" />
     <itunes:owner>
       <itunes:name>Claus Horn</itunes:name>
       <itunes:email>claus.horn@zhaw.ch</itunes:email>
