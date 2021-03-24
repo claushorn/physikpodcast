@@ -1,34 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<rss version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 
   <channel>
     <title>Physik zum Spazieren gehen</title>
     <link>https://claushorn.github.io/physikpodcast/</link>
     <description>
-      Claus Horn
+      Ein audio-only podcast zum Physikunterricht an der ZHAW in Wädenswil.
 
-      Physik zum Spazieren gehen
+      Er ermöglicht das Lernen ohne vor dem Bildschirm sitzen zu müssen.
+
+      Spazieren gehen macht einen klaren Kopf, regt die Kreativität an und fördert das körperliche Wohlergehen.
     </description>
-    <category>Education</category>
-    <explicit>no</explicit>
-    <language>ch-de</language>
-    <copyright>Claus Horn 2021</copyright>
-    <pubDate>Erstellungsdatum("Tue, 23 Mar 2021 1:01:01")</pubDate>
-    <image>
+    <language>de-ch</language>
+    <copyright>Copyright Claus Horn 2021</copyright>
+    <pubDate>Tue, 23 Mar 2021 0:01:00 CET</pubDate>
+
+    <itunes:category>Education</itunes:category>
+    <author>Claus Horn, claus.horn@zhaw.ch</author>
+    <itunes:author>Claus Horn, claus.horn@zhaw.ch</itunes:author>
+    <itunes:owner>Claus Horn, claus.horn@zhaw.ch</itunes:owner>
+    <itunes:image>
       <url>https://claushorn.github.io/physikpodcast/img/PzS_icon.png</url>
       <title>Physik zum Spazieren gehen</title>
       <link>https://claushorn.github.io/physikpodcast/</link>
-    </image>
+    </itunes:image>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:keywords>Physik</itunes:keywords>
 
     <item>
       <title>Luftfeuchtigkeit</title>
-      <description>Folge 1</description>
+      <itunes:episode>1</itunes:episode>
+      <description>
+        Wie kommt die Feuchtigkeit in die Luft? Wie kann man sie messen und beeinflussen?
+        Dies Fragen sind nicht nur wichtig für viele technische Anwendungen sondern auch zentral für das Verständnis vieler Vorgängen in der Meteorologie und in Lebewesen.
+      </description>
+      <enclosure
+        url="https://claushorn.github.io/physikpodcast/audio/PzS_Luftfeuchtigkeit.mp3"
+        length="9040792"
+        type="audio/mpeg"/>
+      <itunes:duration>6:17</itunes:duration>
       <link>https://claushorn.github.io/physikpodcast/audio/PzS_Luftfeuchtigkeit.mp3</link>
       <author>Claus Horn, claus.horn@zhaw.ch</author>
       <guid isPermaLink="false">pzs002</guid>
-      <pubDate>Erstellungsdatum("Tue, 23 Mar 2021 1:02:01")</pubDate>
-      <explicit>no</explicit>
+      <pubDate>Tue, 23 Mar 2021 2:00:00 CET</pubDate>
+      <itunes:explicit>false</itunes:explicit>
     </item>
 
 
