@@ -9,18 +9,18 @@
 
       Er ermöglicht das Lernen ohne vor dem Bildschirm sitzen zu müssen.
 
-      Spazieren gehen macht einen klaren Kopf, regt die Kreativität an und fördert das körperliche Wohlergehen.
+      Spazieren gehen macht einen klaren Kopf, regt die Kreativität an und fördert das körperliche Wohlbefinden.
     </description>
     <language>de-ch</language>
     <copyright>Copyright Claus Horn 2021</copyright>
     <pubDate>Tue, 23 Mar 2021 0:01:00 CET</pubDate>
 
-    <itunes:category>Education</itunes:category>
     <author>Claus Horn, claus.horn@zhaw.ch</author>
     <itunes:author>Claus Horn, claus.horn@zhaw.ch</itunes:author>
+    <itunes:category text="Education" />
     <itunes:owner>Claus Horn, claus.horn@zhaw.ch</itunes:owner>
     <itunes:image>
-      <url>https://claushorn.github.io/physikpodcast/img/PzS_icon.png</url>
+      <url>https://claushorn.github.io/physikpodcast/img/pzs_icon.jpg</url>
       <title>Physik zum Spazieren gehen</title>
       <link>https://claushorn.github.io/physikpodcast/</link>
     </itunes:image>
