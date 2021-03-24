@@ -17,8 +17,11 @@
 
     <author>Claus Horn, claus.horn@zhaw.ch</author>
     <itunes:author>Claus Horn, claus.horn@zhaw.ch</itunes:author>
-    <itunes:category text="Education" />
-    <itunes:owner>Claus Horn, claus.horn@zhaw.ch</itunes:owner>
+    <itunes:category text="Education &amp; Courses" />
+    <itunes:owner>
+      <itunes:name>Claus Horn</itunes:name>
+      <itunes:email>claus.horn@zhaw.ch</itunes:email>
+    </itunes:owner>
     <itunes:image>
       <url>https://claushorn.github.io/physikpodcast/img/pzs_icon.jpg</url>
       <title>Physik zum Spazieren gehen</title>
