@@ -69,6 +69,30 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Elektrische Felder</title>
+      <itunes:episode>2</itunes:episode>
+      <description>
+        Elektrische Felder sind nicht nur die Grundlage für fast die gesamte Chemie, sondern formen auch fast alle Strukturen die uns normalerweise umgeben.
+        Sie ermöglichen es uns Informationen effizient zu verarbeiten, in Computern, und unserem Gehirn.
+      </description>
+      <itunes:summary>
+        Elektrische Felder sind nicht nur die Grundlage für fast die gesamte Chemie, sondern formen auch fast alle Strukturen die uns normalerweise umgeben.
+        Sie ermöglichen es uns Informationen effizient zu verarbeiten, in Computern, und unserem Gehirn.
+      </itunes:summary>
+      <enclosure
+        url="https://claushorn.github.io/physikpodcast/audio/ElektrischeFelder.mp3"
+        length="13451306"
+        type="audio/mpeg"/>
+      <itunes:duration>9:20</itunes:duration>
+      <link>https://claushorn.github.io/physikpodcast/</link>
+      <author>Claus Horn, claus.horn@zhaw.ch</author>
+      <guid isPermaLink="false">pzs003</guid>
+      <pubDate>Mon, 12 Apr 2021 2:00:00 CET</pubDate>
+      <itunes:image href="https://claushorn.github.io/physikpodcast/img/pzs_icon.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
 
   </channel>
 
