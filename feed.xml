@@ -94,6 +94,30 @@
     </item>
 
 
+    <item>
+      <title>Magnetische Felder</title>
+      <itunes:episode>3</itunes:episode>
+      <description>
+        Magnetische Felder sind uns bekannt von Permanentmagneten, sie entstehen aber auch bei jeder Bewegung von
+        elektrischen Ladungen. Das ist die Grundlage von Elektromagneten und induktiven elektrischen Bauelementen.
+      </description>
+      <itunes:summary>
+        Magnetische Felder sind uns bekannt von Permanentmagneten, sie entstehen aber auch bei jeder Bewegung von
+        elektrischen Ladungen. Das ist die Grundlage von Elektromagneten und induktiven elektrischen Bauelementen.
+      </itunes:summary>
+      <enclosure
+        url="https://claushorn.github.io/physikpodcast/audio/MagnetischeFelder.mp3"
+        length="10455793"
+        type="audio/mpeg"/>
+      <itunes:duration>7:15</itunes:duration>
+      <link>https://claushorn.github.io/physikpodcast/</link>
+      <author>Claus Horn, claus.horn@zhaw.ch</author>
+      <guid isPermaLink="false">pzs004</guid>
+      <pubDate>Fri, 16 Apr 2021 3:00:00 CET</pubDate>
+      <itunes:image href="https://claushorn.github.io/physikpodcast/img/pzs_icon.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 
 </rss>
