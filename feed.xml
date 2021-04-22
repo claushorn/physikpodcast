@@ -118,6 +118,32 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Wechselstrom</title>
+      <itunes:episode>4</itunes:episode>
+      <description>
+        Aus unseren Steckdosen kommt nicht Gleichstrom sondern Wechselstrom, da dieser sich einfacher generieren und transformieren lässt.
+        Dies hat wichtige Konsequenzen für die Funktionsweise der Grundlegenden Elemente jedes Stromkreises.
+      </description>
+      <itunes:summary>
+        Aus unseren Steckdosen kommt nicht Gleichstrom sondern Wechselstrom, da dieser sich einfacher generieren und transformieren lässt.
+        Dies hat wichtige Konsequenzen für die Funktionsweise der Grundlegenden Elemente jedes Stromkreises.
+      </itunes:summary>
+      <enclosure
+        url="https://claushorn.github.io/physikpodcast/audio/Wechselstrom.mp3"
+        length="9742337"
+        type="audio/mpeg"/>
+      <itunes:duration>6:46</itunes:duration>
+      <link>https://claushorn.github.io/physikpodcast/</link>
+      <author>Claus Horn, claus.horn@zhaw.ch</author>
+      <guid isPermaLink="false">pzs005</guid>
+      <pubDate>Fri, 22 Apr 2021 4:00:00 CET</pubDate>
+      <itunes:image href="https://claushorn.github.io/physikpodcast/img/pzs_icon.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+
+
   </channel>
 
 </rss>
