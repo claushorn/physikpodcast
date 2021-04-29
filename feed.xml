@@ -137,11 +137,58 @@
       <link>https://claushorn.github.io/physikpodcast/</link>
       <author>Claus Horn, claus.horn@zhaw.ch</author>
       <guid isPermaLink="false">pzs005</guid>
-      <pubDate>Fri, 22 Apr 2021 4:00:00 CET</pubDate>
+      <pubDate>Fri, 23 Apr 2021 4:00:00 CET</pubDate>
       <itunes:image href="https://claushorn.github.io/physikpodcast/img/pzs_icon.jpg" />
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Stromversorgung</title>
+      <itunes:episode>5</itunes:episode>
+      <description>
+        Wie funktioniert unser Stromnetz? Wie wird der Strom transportiert und dazu transformiert?
+        Und was sind die Gefahren beim Umgang mit Strom?
+      </description>
+      <itunes:summary>
+        Wie funktioniert unser Stromnetz? Wie wird der Strom transportiert und dazu transformiert?
+        Und was sind die Gefahren beim Umgang mit Strom? 
+      </itunes:summary>
+      <enclosure
+        url="https://claushorn.github.io/physikpodcast/audio/Stromnetz.mp3"
+        length="6175682"
+        type="audio/mpeg"/>
+      <itunes:duration>4:17</itunes:duration>
+      <link>https://claushorn.github.io/physikpodcast/</link>
+      <author>Claus Horn, claus.horn@zhaw.ch</author>
+      <guid isPermaLink="false">pzs006</guid>
+      <pubDate>Fri, 30 Apr 2021 5:00:00 CET</pubDate>
+      <itunes:image href="https://claushorn.github.io/physikpodcast/img/pzs_icon.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Elektromotoren</title>
+      <itunes:episode>6</itunes:episode>
+      <description>
+        Elektromotoren sind allgegenwärtig und werden immer beliebter. Sie wandeln elektrische in mechanische Leistung um.
+        Meist in der Form von Drehbewegungen zum Antrieb von Maschinen und Fahrzeugen.
+      </description>
+      <itunes:summary>
+        Elektromotoren sind allgegenwärtig und werden immer beliebter. Sie wandeln elektrische in mechanische Leistung um.
+        Meist in der Form von Drehbewegungen zum Antrieb von Maschinen und Fahrzeugen.
+      </itunes:summary>
+      <enclosure
+        url="https://claushorn.github.io/physikpodcast/audio/Elektromotoren.mp3"
+        length="7174395"
+        type="audio/mpeg"/>
+      <itunes:duration>4:59</itunes:duration>
+      <link>https://claushorn.github.io/physikpodcast/</link>
+      <author>Claus Horn, claus.horn@zhaw.ch</author>
+      <guid isPermaLink="false">pzs007</guid>
+      <pubDate>Fri, 7 May 2021 6:00:00 CET</pubDate>
+      <itunes:image href="https://claushorn.github.io/physikpodcast/img/pzs_icon.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 
 
   </channel>
